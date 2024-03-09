@@ -415,7 +415,7 @@
   #define CORE_INT25_PIN	25
   #define CORE_INT26_PIN	26
   #define CORE_INT27_PIN	27
-  #define CORE_INT20_PIN	28
+  #define CORE_INT28_PIN	28
 #endif
 #endif
 
